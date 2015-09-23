@@ -1,0 +1,18 @@
+
+body {
+	background-color: #660;
+	color:white;
+}
+a {
+	text-color:#009;
+	}
+
+a:hover {
+	text-color:#000;
+	text-decoration: line-through;
+	color: #006;}
+
+#flowchart {
+	padding-top:30px;
+
+	}
